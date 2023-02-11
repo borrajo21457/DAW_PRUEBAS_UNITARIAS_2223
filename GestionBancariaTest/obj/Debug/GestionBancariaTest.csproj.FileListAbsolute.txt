@@ -1,0 +1,72 @@
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\GestionBancariaTest.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\GestionBancariaTest.pdb
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\WindowsFormsApp1.exe
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\WindowsFormsApp1.pdb
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\WindowsFormsApp1.exe.config
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.AssemblyReference.cache
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.CoreCompileInputs.cache
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.CopyComplete
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\obj\Debug\GestionBancariaTest.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223 - copia\GestionBancariaTest\obj\Debug\GestionBancariaTest.pdb
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\GestionBancariaTest.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\GestionBancariaTest.pdb
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\WindowsFormsApp1.exe
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\WindowsFormsApp1.pdb
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\WindowsFormsApp1.exe.config
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.AssemblyReference.cache
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.CoreCompileInputs.cache
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.CopyComplete
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.dll
+F:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.pdb
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\GestionBancariaTest.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\GestionBancariaTest.pdb
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\WindowsFormsApp1.exe
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\WindowsFormsApp1.pdb
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\WindowsFormsApp1.exe.config
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.AssemblyReference.cache
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.CoreCompileInputs.cache
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.csproj.CopyComplete
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.dll
+D:\DAW\1º CURSO\Entornos22_23\T4\DAW_PRUEBAS_UNITARIAS_2223\GestionBancariaTest\obj\Debug\GestionBancariaTest.pdb
